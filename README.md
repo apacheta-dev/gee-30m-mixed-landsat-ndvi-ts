@@ -1,8 +1,8 @@
-![GEE_CI_Apacheta_PISLM](https://github.com/user-attachments/assets/89706505-f3b5-4166-b1b8-b12fe5722861)
+<img width="1909" height="140" alt="GEE_CI_Apacheta_PISLM_GEF" src="https://github.com/user-attachments/assets/51e902f6-469b-412e-bf50-62c119f43bf3" />
+
 # 30m Mixed NDVI Time Series
 
-[![DOI](https://zenodo.org/badge/15276536.svg)](https://doi.org/10.5281/zenodo.15276536)
-
+[![DOI](https://github.com/user-attachments/assets/b719911f-7a16-4175-af19-002ff25f7deb)](https://doi.org/10.5281/zenodo.15276536)
 
 Monitoring land productivity dynamics is fundamental for reporting on Sustainable Development Goal (SDG) 15.3.1 to the United Nations Convention to Combat Desertification (UNCCD), particularly within vulnerable Small Island Developing States (SIDS). These nations face significant challenges in accurately assessing land degradation owing to inherent geographical and technical constraints. Persistent cloud cover frequently obscures small islands, substantially reducing the availability of usable satellite imagery. Furthermore, high spatial resolution satellite images, especially during the early years of the monitoring period (2000-2013), were historically limited for many SIDS; often, Landsat 7 was the sole source. Compounding this issue, the Scan Line Corrector (SLC) failure on Landsat 7 introduced data gaps, further diminishing the amount of reliable imagery available. Collectively, these factors impede the generation of consistent and complete time series datasets requisite for robust land productivity assessments.
 
