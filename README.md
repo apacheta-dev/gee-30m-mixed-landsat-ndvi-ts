@@ -14,5 +14,5 @@ The Google Earth Engine application is accessible via: https://apacheta.projects
 
 Google Earth Engine users can add the same repository to the Code Editor using this [link](https://code.earthengine.google.com/?accept_repo=users/apacheta/Mixed_Landsat_NDVI_TS).
 
-For more information and citation please refer to:
+For more information and citation, please refer to:
 [![DOI](https://github.com/user-attachments/assets/b719911f-7a16-4175-af19-002ff25f7deb)](https://doi.org/10.5281/zenodo.15276535)
