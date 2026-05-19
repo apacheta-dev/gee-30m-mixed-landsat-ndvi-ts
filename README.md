@@ -1,6 +1,6 @@
 <img width="1909" height="140" alt="GEE_CI_Apacheta_PISLM_GEF" src="https://github.com/user-attachments/assets/51e902f6-469b-412e-bf50-62c119f43bf3" />
 
-# 30m Mixed NDVI Time Series
+# 30m Mixed Landsat NDVI Time Series
 
 [![DOI](https://github.com/user-attachments/assets/b719911f-7a16-4175-af19-002ff25f7deb)](https://doi.org/10.5281/zenodo.15276536)
 
@@ -13,3 +13,6 @@ The Google Earth Engine application is accessible via: https://apacheta.projects
 <img width="1826" height="923" alt="image" src="https://github.com/user-attachments/assets/3e47ccc5-6087-4b20-aee0-bc0880cecfa5" />
 
 Google Earth Engine users can add the same repository to the Code Editor using this [link](https://code.earthengine.google.com/?accept_repo=users/apacheta/Mixed_Landsat_NDVI_TS).
+
+For more information and citation please refere to:
+[![DOI](https://github.com/user-attachments/assets/b719911f-7a16-4175-af19-002ff25f7deb)](https://doi.org/10.5281/zenodo.15276536)
