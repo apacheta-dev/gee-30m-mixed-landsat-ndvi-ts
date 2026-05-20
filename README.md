@@ -2,7 +2,7 @@
 
 # 30m Mixed Landsat NDVI Time Series for 40 Small Island Developing States (SIDS)
 
-[![DOI](https://github.com/user-attachments/assets/b719911f-7a16-4175-af19-002ff25f7deb)](https://doi.org/10.5281/zenodo.15276535)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.15276535-blue.svg)](https://doi.org/10.5281/zenodo.15276535)
 
 Monitoring land productivity dynamics is fundamental for reporting on Sustainable Development Goal (SDG) 15.3.1 to the United Nations Convention to Combat Desertification (UNCCD), particularly within vulnerable Small Island Developing States (SIDS). These nations face significant challenges in accurately assessing land degradation owing to inherent geographical and technical constraints. Persistent cloud cover frequently obscures small islands, substantially reducing the availability of usable satellite imagery. Furthermore, high spatial resolution satellite images, especially during the early years of the monitoring period (2000-2013), were historically limited for many SIDS; often, Landsat 7 was the sole source. Compounding this issue, the Scan Line Corrector (SLC) failure on Landsat 7 introduced data gaps, further diminishing the amount of reliable imagery available. Collectively, these factors impede the generation of consistent and complete time series datasets requisite for robust land productivity assessments.
 
@@ -15,4 +15,5 @@ To explore the dataset, the filters and resulting LPD maps for the 40 SIDS, you 
 Google Earth Engine users can add this same repository to the Code Editor direclty and try the codes:  [link](https://code.earthengine.google.com/?accept_repo=users/apacheta/Mixed_Landsat_NDVI_TS).
 
 For more information, codes to apply in your area and citation, please refer to:
-[![DOI](https://github.com/user-attachments/assets/b719911f-7a16-4175-af19-002ff25f7deb)](https://doi.org/10.5281/zenodo.15276535)
+
+García, C. L., Pozzi Tay, E. F., Raviolo, E., Maharaj, T., Francis, R., Zvoleff, A., Antunes Daldegan, G., Noon, M., Koenig K., Paredes-Trejo, F. & James, C. (2025). Annual 30m NDVI Time Series from Mixed Landsat Images. Zenodo. https://doi.org/10.5281/zenodo.15276535
